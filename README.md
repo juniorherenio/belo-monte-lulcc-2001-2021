@@ -5,7 +5,7 @@
 
 Data and analytical scripts for:
 
-> **Silva, P.R.P., Beskow, T.L.C., Campos, H.R.P., Albuquerque, D.P., Gonçalves Júnior, D.H., Torres Neto, F.F., & Terra, F.S.** (2025). Pre-construction deforestation pressure and reservoir-driven hydrological reorganization in the Belo Monte HPP direct influence area, Brazilian Amazon (2001–2021): a multitemporal geospatial analysis. *Applied Geography*. (under review)
+> **Silva, P.R.P., Beskow, T.L.C., Campos, H.R.P., Albuquerque, D.P., Gonçalves Júnior, D.H., Torres Neto, F.F., & Terra, F.S.** (2025). Pre-construction deforestation pressure and reservoir-driven hydrological reorganization in the Belo Monte HPP direct influence area, Brazilian Amazon (2001–2021): a multitemporal geospatial analysis. Manuscript submitted for publication.
 
 ---
 
@@ -142,7 +142,7 @@ Blocks run independently — each block reloads data from CSV if not running in 
 If you use this dataset or scripts, please cite the article and this repository:
 
 **Article:**
-> Silva, P.R.P., Beskow, T.L.C., Campos, H.R.P., Albuquerque, D.P., Gonçalves Júnior, D.H., Torres Neto, F.F., & Terra, F.S. (2025). Pre-construction deforestation pressure and reservoir-driven hydrological reorganization in the Belo Monte HPP direct influence area, Brazilian Amazon (2001–2021): a multitemporal geospatial analysis. *Applied Geography*. (under review)
+> Silva, P.R.P., Beskow, T.L.C., Campos, H.R.P., Albuquerque, D.P., Gonçalves Júnior, D.H., Torres Neto, F.F., & Terra, F.S. (2025). Pre-construction deforestation pressure and reservoir-driven hydrological reorganization in the Belo Monte HPP direct influence area, Brazilian Amazon (2001–2021): a multitemporal geospatial analysis. Manuscript submitted for publication.
 
 **Dataset and scripts:**
 > Silva, P.R.P. et al. (2025). *Belo Monte HPP — Land Use and Land Cover Change (2001–2021)* [Dataset and scripts]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
