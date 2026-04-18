@@ -145,7 +145,7 @@ If you use this dataset or scripts, please cite the article and this repository:
 > Silva, P.R.P., Beskow, T.L.C., Campos, H.R.P., Albuquerque, D.P., Gonçalves Júnior, D.H., Torres Neto, F.F., & Terra, F.S. (2025). Pre-construction deforestation pressure and reservoir-driven hydrological reorganization in the Belo Monte HPP direct influence area, Brazilian Amazon (2001–2021): a multitemporal geospatial analysis. Manuscript submitted for publication.
 
 **Dataset and scripts:**
-> Silva, P.R.P. et al. (2025). *Belo Monte HPP — Land Use and Land Cover Change (2001–2021)* [Dataset and scripts]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Silva, P.R.P. et al. (2025). *Belo Monte HPP — Land Use and Land Cover Change (2001–2021)* [Dataset and scripts]. Zenodo. https://doi.org/10.5281/zenodo.19644591
 
 **MapBiomas Collection 9:**
 > Souza, C.M., Jr., et al. (2020). Reconstructing three decades of land use and land cover changes in Brazilian biomes with Landsat archive and Earth Engine. *Remote Sensing*, 12(17), 2735. https://doi.org/10.3390/rs12172735
