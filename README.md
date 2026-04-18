@@ -162,6 +162,6 @@ Landsat imagery is public domain (USGS). MapBiomas Collection 9 is licensed unde
 
 ## Contact
 
-Corresponding author: **Fabrício da Silva Terra**  
-Universidade Federal de Pelotas (UFPel), Pelotas, RS, Brazil  
-Email: [add email]
+Author: **Deurimar Júnior**  
+Universidade Federal do Espírito Santo - CEUNES, São Mateus, ES, Brazil  
+Email: juniorherenio@gmail.com
